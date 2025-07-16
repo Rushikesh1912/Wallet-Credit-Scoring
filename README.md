@@ -31,7 +31,7 @@ wallet-credit-scoring/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/wallet-credit-scoring.git
+git clone https://github.com/Rushikesh1912/wallet-credit-scoring.git
 cd wallet-credit-scoring
 ```
 
